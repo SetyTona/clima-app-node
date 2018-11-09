@@ -8,8 +8,8 @@ Para ayuda:
 para instalar:
 ```npm install```
 
-###Ejemplo de uso:
+### Ejemplo de uso:
 ```node app -d "Tona Barcelona"```
 
-###Resultado del ejemplo:
+### Resultado del ejemplo:
 El clima en 08551 Tona, Barcelona, Spain es de 11.39
