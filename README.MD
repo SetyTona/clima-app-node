@@ -3,13 +3,13 @@
 Este modulo, devuelve el la temperatura existente en una zona del mundo en cualquier país de este.
 
 Para ayuda:
-node app --help
+```node app --help```
 
 para instalar:
-npm install
+```npm install```
 
-Ejemplo de uso:
-node app -d "Tona Barcelona"
+###Ejemplo de uso:
+```node app -d "Tona Barcelona"```
 
-Resultado:
+###Resultado del ejemplo:
 El clima en 08551 Tona, Barcelona, Spain es de 11.39
