@@ -1,0 +1,104 @@
+Contenido del curso
+
+Buscar contenido del curso
+Buscar subtítulos, clases y recursos.
+Sección: 1
+4 / 4
+Introducción
+Sección: 2
+7 / 7
+Fundamentos de Node
+Sección: 3
+14 / 14
+Reforzamiento de los temas necesarios para seguir el curso
+Sección: 4
+13 / 13
+Bases de node
+Sección: 5
+12 / 12
+Aplicación de tareas por hacer
+Sección: 6
+4 / 11
+Aplicación del Clima - Google API + Open Weather
+51. Introducción a la sección
+1:36
+52. Temas puntuales de la sección
+53. Inicio del proyecto - Aplicación del Clima del Mundo
+3:41
+54. Google Maps URL
+55. Google Maps API - Obtener direcciones
+4:16
+56. Peticiones HTTP - Axios - Request
+12:23
+57. Optimizando el código para obtener la dirección y coordenadas
+8:11
+58. Open Weather Map
+8:18
+59. Conectando ambos servicios
+5:24
+60. Subir a GitHub - Aplicación del Clima
+4:54
+61. Código fuente de la sección
+clima-app-node-1.0.0.zip
+Sección: 7
+0 / 12
+Webserver - HTTP - EXPRESS - HBS
+Sección: 8
+0 / 13
+REST Server - Configuraciones iniciales
+Sección: 9
+0 / 22
+Alcances del RESTServer y mantenimiento de la colección de usuarios
+Sección: 10
+0 / 14
+Autenticación de usuario - JWT
+Sección: 11
+0 / 10
+Google Sign In - Front y BackEnd
+Sección: 12
+0 / 13
+Categorías y Productos
+Sección: 13
+0 / 13
+Carga de Archivos y protección de los mismos
+Sección: 14
+0 / 16
+Sockets - Fundamentos de los sockets
+Sección: 15
+0 / 15
+Sockets - Aplicación de Cola
+Sección: 16
+0 / 19
+Socket Chat
+Sección: 17
+0 / 13
+Bonus - Node + MySQL + TypeScript
+Sección: 18
+0 / 1
+Despedida del curso
+Google Maps URL
+Sección 6, Clase 54
+Actualización:
+GoogleMaps cambió la ubicación de la página que usaremos en el siguiente video, pero ahora está aquí
+
+https://developers.google.com/maps/documentation/geocoding/start
+
+
+
+Si gustan, dejen esta página abierta y sigan con el siguiente video.
+
+
+
+Nota:
+Google Maps a muchos les está pidiendo datos de facturación para usar el API, cosa que están implementando, pero si no quieren ingresar nada, pueden usar para desarrollo y seguir el curso, cualquiera de estas API Keys
+
+// AIzaSyDyJPPlnIMOLp20Ef1LlTong8rYdTnaTXM
+// AIzaSyDzbQ_553v-n8QNs2aafN9QaZbByTyM7gQ
+// AIzaSyA5mjCwx1TRLuBAjwQw84WE6h5ErSe7Uj8
+// AIzaSyCroCERuudf2z02rCrVa6DTkeeneQuq8TA
+// AIzaSyBkDYSVRVtQ6P2mf2Xrq0VBjps8GEcWsLU
+// AIzaSyAu2rb0mobiznVJnJd6bVb5Bn2WsuXP2QI
+// AIzaSyAZ7zantyAHnuNFtheMlJY1VvkRBEjvw9Y
+// AIzaSyDSPDpkFznGgzzBSsYvTq_sj0T0QCHRgwM
+// AIzaSyD4YFaT5DvwhhhqMpDP2pBInoG8BTzA9JY
+// AIzaSyAbPC1F9pWeD70Ny8PHcjguPffSLhT-YF8
